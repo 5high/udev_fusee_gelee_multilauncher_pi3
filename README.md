@@ -25,7 +25,7 @@ cd payloads
 wget https://t.co/d5nCLNa7E5 -O fusee.bin
 wget https://github.com/CTCaer/hekate/releases/download/v3.2/hekate_ctcaer_3.2.bin
 ```
-![alt text](https://raw.githubusercontent.com/username/projectname/master/pi_usb_ports.png)
+![Raspberry PI Ports](https://i.imgur.com/SYEPtSg.png)
 
 Currently the usb ports are assigned as follows: 
 
