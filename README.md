@@ -39,5 +39,5 @@ Port 5: hekate_ctcaer_3.2.bin
 
 If you want to change the payloads to something else you can edit the fusee.sh
 
-
-Special Thanks to Team ReSwitched https://github.com/reswitched and Kate Temkin https://github.com/ktemkin for Fusee Gelee :-))
+---
+Special Thanks to Team ReSwitched https://github.com/reswitched and Kate Temkin https://github.com/ktemkin for Fusee Gelee and  Darkmelman for the original Project :-)
