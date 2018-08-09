@@ -33,9 +33,9 @@ Port 2: fusee.bin
 
 Port 3: hekate_ctcaer_3.2.bin
 
-Port 4: fusee.bin
+Port 4: hekate_ctcaer_3.2.bin
 
-Port 5: hekate_ctcaer_3.2.bin
+Port 5: fusee.bin
 
 If you want to change the payloads to something else you can edit the fusee.sh
 
